@@ -6,8 +6,4 @@ With these projects, I promoted on Data Types and Algorithms in [patika.dev Data
 
 ___
 
-
-
-
-
-
+[Go to project owner in patika.dev](https://app.patika.dev/leskof)
