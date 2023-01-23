@@ -4,7 +4,7 @@
 
 1-) Write all sorting process (Selection Sort) step by step.
 
-2-) Time Complexity: Which case type provides after array has sorted?
+1.1-) Time Complexity: Which case type provides after array has sorted?
     a-Average Case
     b-Worst Case
     c- Best Case
@@ -23,6 +23,10 @@
 9. Algorithm search to lower number (without array's 0, 1st, 2nd and 3rd. First four index already sorted)
 10. Algorithm pull (22) into (22). Because 22 is 5th lowest number in this array. *New array: [2,6,16,18,22,27]*
 11. Sorting process done.
+
+**Answer 1.1:**
+
+Worst Case
 ___
 
 **Question 2:** [7,3,5,8,2,9,4,15,6]-> Selection Sort
